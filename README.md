@@ -1,2 +1,1 @@
-# parallax-effect
-Here is a boilerplate with a parallax effect example (CSS, no JS), ready to use. 
+"Here is a boilerplate featuring an example of a parallax effect, ready to use. (Uses CSS, no JS.)
